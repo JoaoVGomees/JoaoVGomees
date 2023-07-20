@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando a base de HTML, CSS e JS. Com um pouco de experiência em python.
 - 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
-- 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
