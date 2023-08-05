@@ -1,6 +1,6 @@
 ## Olá! Sou o João Vitor!
 
-- 🌱 Atualmente estudando HTML, CSS e JS. Com um pouco de experiência em python.
+- 🌱 Atualmente estudando HTML, CSS, JS e Java. Com um pouco de experiência em python.
 - 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
  
 <div style="display: inline_block"><br>
