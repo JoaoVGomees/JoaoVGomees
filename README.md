@@ -2,12 +2,16 @@
 
 - 🌱 Atualmente estudando HTML, CSS, JS e Java. Com um pouco de experiência em python.
 - 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div style="display: inline_block">
+    <img align="center" alt="joao- Js"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
 </div>
 
   ##
@@ -22,5 +26,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="96" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor7817)](https://github.com/joaovitor7817/github-readme-stats)
-
+<div align="center">
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor7817&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor7817&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+</div>
