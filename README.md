@@ -11,6 +11,7 @@
     <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="joao- Js"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
 </div>
 
