@@ -1,7 +1,7 @@
 ## Olá! Sou o João Vitor!
 
 - 🌱 Atualmente estudando JS, TS e Java. Com um pouco de experiência em python.
-- 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
+- 🤔 Buscando atuar como back-end, e talvez num futuro como full-stack.
 
 <div>
     <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
