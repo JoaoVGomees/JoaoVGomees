@@ -29,7 +29,6 @@
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovgomees&&theme=radical" alt="joaovgomees" />
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovgomees&show=contribs,prs&theme=radical"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovgomees&show_icons=true&theme=radical"/>
 </div>
