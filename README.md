@@ -11,6 +11,7 @@
     <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="joao-Js"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="joao-Js"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="joao-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -28,6 +29,7 @@
 <br>
 
 <div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovgomees&&theme=radical" alt="joaovgomees" />
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovgomees&show=contribs,prs&theme=radical"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovgomees&show_icons=true&theme=radical"/>
 </div>
