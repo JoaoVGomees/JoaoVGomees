@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,spring,mysql,git,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,spring,mysql,git,figma,discord)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
