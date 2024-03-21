@@ -21,8 +21,8 @@
 <br>
 
 <div align="center">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVGomees&show=contribs,prs&theme=radical"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVGomees&show_icons=true&theme=radical"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovgomees&show=contribs,prs&theme=radical"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovgomees&show_icons=true&theme=radical"/>
 </div>
 
 <p align="center">
