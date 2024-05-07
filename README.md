@@ -12,19 +12,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,spring,mysql,git,figma,discord)](https://skillicons.dev)
 
-<br>
-
-<div align="center">
-    <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api?username=JoaoVGomees&show=contribs,prs&theme=tokyonight&hide_border=true" alt="Contribuções"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGomees&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-    <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoVGomees&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ofensiva"/>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/joão-vitor-gomes-pereira-7bb079280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__joao78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/joão-vitor-gomes-pereira-7bb079280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__joao78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+--------------------------
+
+<div align="center">
+    <img width="auto" height="195"src="https://github-readme-stats.vercel.app/api?username=JoaoVGomees&show=contribs,prs&theme=tokyonight&hide_border=true" alt="Contribuções"/>
+    <img width="41%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGomees&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>        
+    <img width="50%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoVGomees&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ofensiva"/>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="95%" />
