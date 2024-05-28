@@ -6,7 +6,7 @@
 
 
 - 🌱 Atualmente estudando JS, React e Java. Com um pouco de experiência em python.
-- 🤔 Buscando atuar como back-end, e talvez num futuro como full-stack.
+- 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
 
 <h3 align="left">Languages and Tools:</h3>
 
