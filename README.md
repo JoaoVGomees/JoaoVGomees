@@ -23,7 +23,7 @@
 <div align="center">
     <img width="auto" height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVGomees&show=contribs,prs&theme=tokyonight&hide_border=TRUE" alt="Contribuções"/>
     <img width="41%" height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGomees&layout=compact&theme=tokyonight&hide_border=TRUE" alt="Linguagens mais usadas"/>        
-    <img width="50%" height="auto" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVGomees&theme=tokyonight&hide_border=TRUE" alt="Offensive"/>
+      <!-- <img width="50%" height="auto" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVGomees&theme=tokyonight&hide_border=TRUE" alt="Offensive"/> -->
 </div>
 
 <p align="center">
