@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor;I'm+20+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-- 🌱 Atualmente estudando JS, React e Java. Com um pouco de experiência em python.
-- 🤔 Buscando atuar como front-end, e talvez num futuro como full-stack.
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,spring,mysql,mongodb,git,figma,discord)](https://skillicons.dev)
