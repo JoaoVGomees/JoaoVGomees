@@ -45,13 +45,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="45%" height="195" src="https://github-readme-stats.vercel.app/api?username=JoaoVGomees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="45%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGomees&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img width="45%" height="195" src="https://github-readme-stats.vercel.app/api?username=joaovgomees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="45%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovgomees&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVGomees&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+<!-- <div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovgomees&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div> -->
 
 ---
 
