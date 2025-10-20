@@ -14,7 +14,7 @@
 
 - Atuação em desenvolvimento back end com Java e Spring
 - Professor de Tecnologia 
-- Graduação em Análise em Desenvolvimento de Sistemas
+- Graduado em Análise em Desenvolvimento de Sistemas
 - Formado em técnico em Desenvolvimento de Sistemas pelo Senai Suíço Brasileiro
 
 ## Projetos em destaque
