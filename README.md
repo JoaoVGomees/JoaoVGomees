@@ -26,7 +26,7 @@
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joaovgomees/)
-- [Portfólio](https://joaovgomees.github.io/portfolio-origamid/)
+- [Portfólio](https://joaovgomees.vercel.app/)
 - [Instagram - João Vitor](https://www.instagram.com/__joao78)
 
 ---
