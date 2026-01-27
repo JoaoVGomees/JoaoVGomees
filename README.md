@@ -13,8 +13,9 @@
 ## Sobre
 
 - Atuação em desenvolvimento back end com Java e Spring
-- Professor de Tecnologia 
-- Graduado em Análise em Desenvolvimento de Sistemas
+- Professor de Tecnologia
+- Cursando Engenharia de Software na UFBRA  
+- Graduado em Análise em Desenvolvimento de Sistemas pela Universidade Sumaré
 - Formado em técnico em Desenvolvimento de Sistemas pelo Senai Suíço Brasileiro
 
 ## Projetos em destaque
