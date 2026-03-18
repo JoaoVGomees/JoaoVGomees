@@ -21,6 +21,7 @@
 ## Projetos em destaque
 
 - [Weather Page](https://weatherpageapi.vercel.app/) – Plataforma para visualizar o Clima na sua cidade.
+- [Gerenciador de Ordens de Serviço](https://github.com/carlitos9087/Gerenciador-De-Ordens-De-Servico) – API para projeto final do curso no Senac.
 - [API AnimeLink](https://github.com/JoaoVGomees/APICompleta) – Back end do AnimeLink, projeto final do curso Técnico.
 - [Desafio Itaú](https://github.com/JoaoVGomees/desafio-backend-itau) – Implementação de uma API REST utilizando Java com spring, seguindo os requisitos propostos pelo Itaú.
 - [Bikcraft](https://joaovgomees.github.io/bikcraft/) – Página de aluguel de bicicletas elétricas. Back end da página em desenvolvimento.
