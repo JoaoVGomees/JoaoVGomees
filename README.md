@@ -33,7 +33,7 @@
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joaovgomees/)
-- [Portfólio](https://joaovgomees.vercel.app/)
+- [Portfólio](https://joaovgomes.com.br/)
 - [Instagram - João Vitor](https://www.instagram.com/__joao78)
 
 ---
