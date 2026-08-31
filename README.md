@@ -26,6 +26,10 @@
 - [Desafio Itaú](https://github.com/JoaoVGomees/desafio-backend-itau) – Implementação de uma API REST utilizando Java com spring, seguindo os requisitos propostos pelo Itaú.
 - [Bikcraft](https://joaovgomees.github.io/bikcraft/) – Página de aluguel de bicicletas elétricas. Back end da página em desenvolvimento.
 
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314bc6adppxelzh5yxqjob3zxj3m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joaovgomees/)
